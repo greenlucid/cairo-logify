@@ -1,0 +1,11 @@
+{
+  "name": "cairo-logify",
+  "version": "0.0.0",
+  "description": "A script to add and remove print logging hints in Cairo",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "green",
+  "license": "ISC"
+}
